@@ -1,0 +1,11 @@
+j:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\bin\Debug\netcoreapp3.1\Roog.exe
+J:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\bin\Debug\netcoreapp3.1\Roog.deps.json
+J:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\bin\Debug\netcoreapp3.1\Roog.runtimeconfig.json
+J:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\bin\Debug\netcoreapp3.1\Roog.runtimeconfig.dev.json
+j:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\bin\Debug\netcoreapp3.1\Roog.dll
+j:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\bin\Debug\netcoreapp3.1\Roog.pdb
+j:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\obj\Debug\netcoreapp3.1\Roog.csprojAssemblyReference.cache
+j:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\obj\Debug\netcoreapp3.1\Roog.AssemblyInfoInputs.cache
+j:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\obj\Debug\netcoreapp3.1\Roog.AssemblyInfo.cs
+j:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\obj\Debug\netcoreapp3.1\Roog.dll
+j:\CSC 302\prac 1 task 2\sdp-prac-1-roog\Roog\obj\Debug\netcoreapp3.1\Roog.pdb
